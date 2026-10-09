@@ -293,15 +293,8 @@ const SIGNS = [
     explain:
       "You're about to join a motorway. Learner drivers, motorbikes under 50cc, cyclists and pedestrians are not allowed on motorways.",
   },
-
-  {
-  name: "No entry",
-  category: "regulatory",
-  svg: ...the drawing...,
-     explain:
-      "You're about to join a motorway. Learner drivers, motorbikes under 50cc, cyclists and pedestrians are not allowed on motorways.",
-  },
 ];
+
 // ---------- Quiz logic ----------
 const QUESTIONS_PER_ROUND = 15;
 
