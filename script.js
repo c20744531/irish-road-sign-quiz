@@ -298,10 +298,10 @@ const SIGNS = [
   name: "No entry",
   category: "regulatory",
   svg: ...the drawing...,
-  explain: "You can't drive into this road from this side...",
-},
+     explain:
+      "You're about to join a motorway. Learner drivers, motorbikes under 50cc, cyclists and pedestrians are not allowed on motorways.",
+  },
 ];
-
 // ---------- Quiz logic ----------
 const QUESTIONS_PER_ROUND = 15;
 
